@@ -2,9 +2,11 @@
 Cybersecurity Lab Setup using Oracle VirtualBox and Kali Linux
 
 📌 Project Overview
+
 This project is about creating and configuring a basic cybersecurity lab environment using Oracle VirtualBox and Kali Linux.
 The main objective was to understand virtualization, network configuration, and basic networking concepts.
 ⚙️ Tasks Performed
+
 🔸Created and configured a Virtual Machine using Oracle VirtualBox.
 
 🔸Installed and set up Kali Linux in a virtual environment.
@@ -20,6 +22,7 @@ The main objective was to understand virtualization, network configuration, and 
 🔸Worked with DNS configuration.
 
 🛠️ Tools Used
+
 🔸Oracle VirtualBox
 
 🔸Kali Linux
@@ -29,13 +32,17 @@ The main objective was to understand virtualization, network configuration, and 
 🔸IPv4 Configuration
 
 🔸DNS
+
 🎯 Learning Outcomes
+
 Understanding Virtual Machines.
 Learning Kali Linux installation and setup.
 Understanding NAT Network configuration.
 Learning manual IPv4 configuration.
 Understanding DNS settings and basic networking.
+
 📝 Conclusion
+
 Successfully created and configured a cybersecurity lab environment using Oracle VirtualBox and Kali Linux. This project improved my practical understanding of virtualization and network configuration.
 
 Project Category: Cybersecurity
